@@ -9,6 +9,9 @@ body header {
 body header .logo {
 	width: 30%;
 }
+body header .logo img {
+	width: 40%;
+}
 body header div {
 	text-align: center;
 	width: 40%;
@@ -26,5 +29,5 @@ main .inlineblock {
 	width: 20%;
 }
 main .inlineblock  a img {
-	width: 100%;
+	width: 50%;
 }
