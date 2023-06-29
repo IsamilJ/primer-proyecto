@@ -25,14 +25,6 @@ main .inlineblock {
 	display: inline-block;
 	width: 20%;
 }
-
-main #logos {
-	display:flex;
-	justify-content: center;
-	align-content: center;
-	align-items: center;
-}
-
-main #logos .inlineblock  a img {
+main .inlineblock  a img {
 	width: 100%;
 }
