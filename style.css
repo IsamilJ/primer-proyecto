@@ -1,0 +1,38 @@
+body{
+	background: lightblue;
+}
+body header {
+	height: 100%;
+	width: 100%;
+	display: inline-flex;
+}
+body header .logo {
+	width: 30%;
+}
+body header div {
+	text-align: center;
+	width: 40%;
+	font-size: 100%;
+}
+
+body main {
+	height: 100%;
+}
+main {
+	text-align: center;
+}
+main .inlineblock {
+	display: inline-block;
+	width: 20%;
+}
+
+main #logos {
+	display:flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+main #logos .inlineblock  a img {
+	width: 100%;
+}
